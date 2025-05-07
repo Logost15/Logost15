@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Logost15
-- 👀 I’m interested in ... Coding and gamming
-- 🌱 I’m currently learning ...coding and data Analysis
+- 👀 I’m interested in ... Coding and CyberSecurity
+- 🌱 I’m currently learning ...coding and CyberSec
 
 - 💞️ I’m looking to collaborate on ...I dont know yet, but I hope to change that soon.
 - 📫 How to reach me ...ramirez.alejandro367@gmail.com
